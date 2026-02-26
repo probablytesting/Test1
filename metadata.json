@@ -1,0 +1,5 @@
+{
+  "name": "TubeGuide AI",
+  "description": "Convert YouTube tutorials into step-by-step written guides with screenshots using AI.",
+  "requestFramePermissions": []
+}
